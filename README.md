@@ -15,6 +15,11 @@ I am currently pursuing  a degree in computer science to further educate my self
   </a>
 </p>
 
+## Tools i  use  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,linux,postman,workers&perline=9" />
+  </a>
+
 Readme inspiration @Nitya-Pasrija
 
 
