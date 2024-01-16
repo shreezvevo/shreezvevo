@@ -11,14 +11,11 @@ I am currently pursuing  a degree in computer science to further educate my self
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,css,html,js,mysql,nodejs,py,tailwind,mongodb,golang&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,css,html,js,mysql,nodejs,py,tailwind,mongodb,golang,neovim,linux,postman,worker&perline=9" />
   </a>
 </p>
 
-## Tools i  use  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,linux,postman,workers&perline=9" />
-  </a>
+#I use arch BTW
 
 Readme inspiration @Nitya-Pasrija
 
