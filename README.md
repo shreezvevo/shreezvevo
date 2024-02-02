@@ -17,8 +17,7 @@ I am currently pursuing  a degree in computer science to further educate my self
 
 # I use arch BTW
 
-Readme inspiration @Nitya-Pasrija
-
+ 
 
 
 
