@@ -14,8 +14,7 @@ I am currently pursuing  a degree in computer science to further educate my self
   </a>
 </p>
 
-# I use arch BTW
-
+ 
  
 
 
